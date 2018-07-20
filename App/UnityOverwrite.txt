@@ -10,7 +10,7 @@ GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C5
 Project Explorer\App.cs: B102042351AAA44F92661389799AE94B
 Project Explorer\AssemblyConverterArgs.txt: 174D75DCDB2D022CF26F77004B76364F
 Project Explorer\Package.appxmanifest: 07B4AFA61A39516C1A807839D81F04E1
-Project Explorer\Project Explorer.csproj: 687AEEFF4591CFB67599AE58255845F0
+Project Explorer\Project Explorer.csproj: 9BB7CD8876B42726D658625D697DEE55
 Project Explorer\Project Explorer.csproj.user: modified
 Project Explorer\project.json: 1D02BC64BAC0D041019673A1C4C51737
 Project Explorer\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
